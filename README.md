@@ -2,6 +2,8 @@
 
 Proyecto desarrollado para el proceso de entrevista técnica de Health Atom.
 
+* **URL pública**: https://yosoyfabrizio.github.io/desafiohealth/
+
 # El escenario 🎭
 **Páginas Amarillas** encargó la maquetación del nuevo perfil profesional de sus anunciantes. La empresa ofrece espacios en su directorio para que técnicos y profesionales promocionen sus servicios, y así puedan dar a conocer sus datos de contacto, recibir preguntas y concertar visitas domésticas.
 
