@@ -20,7 +20,7 @@ Además podrá recibir preguntas y solicitudes desde el formulario de contacto.
 
 ## Construido con 🛠️
 * HTML5 para la estructura & SEO Técnico.
-* CSS en propiedades de estilos, media queries, box modeling, flexbox y responsive design).
+* CSS en propiedades de estilos, media queries, box modeling, flexbox y responsive design.
 * JS para funcionalidades lightbox.
 * Embebidos de Google Maps y Youtube.
 * Formatos de imagen de próxima generación.
